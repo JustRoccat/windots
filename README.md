@@ -1,0 +1,1 @@
+download chicago95 icons and thunar theme
